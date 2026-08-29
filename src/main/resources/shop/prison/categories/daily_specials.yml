@@ -44,7 +44,7 @@ categories:
           - "{translate:shop.common.sell-line}"
           - "{translate:shop.categories.daily_specials.item-note}"
           buy: 160.0
-          sell: 64.0
+          sell: -1.0
         seasonal_treats:
           material: HONEY_BOTTLE
           slot: 21
@@ -57,7 +57,7 @@ categories:
           - "{translate:shop.common.sell-line}"
           - "{translate:shop.categories.daily_specials.item-note}"
           buy: 180.0
-          sell: 72.0
+          sell: -1.0
         premium_pick:
           material: BONE_MEAL
           slot: 24
@@ -70,4 +70,4 @@ categories:
           - "{translate:shop.common.sell-line}"
           - "{translate:shop.categories.daily_specials.item-note}"
           buy: 64.0
-          sell: 24.0
+          sell: -1.0
