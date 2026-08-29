@@ -394,7 +394,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mining.item-note}"
         buy: 52.0
-        sell: 1.82
+        sell: 0.05
       amethyst_block:
         material: AMETHYST_BLOCK
         slot: 43
@@ -408,4 +408,4 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mining.item-note}"
         buy: 64.0
-        sell: 2.24
+        sell: 0.05

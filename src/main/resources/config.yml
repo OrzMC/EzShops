@@ -73,7 +73,7 @@ player-shops:
   # initialised at startup the plugin will fall back to the YAML file backend
   # (`player-shops.yml`).
   storage:
-    # one of: jaloquent | mysql | sqlite
+    # one of: yaml (default) | jaloquent | mysql | sqlite*
     type: yaml
 
     # Common optional settings that apply to most JDBC-backed backends.
