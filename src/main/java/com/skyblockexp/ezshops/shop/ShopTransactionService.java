@@ -309,6 +309,7 @@ public class ShopTransactionService {
         recordSolds(player, amount);
         pricingManager.handleSale(material, amount);
         doTreasurySplit(player, totalGain);
+        org.bukkit.Bukkit.getPluginManager().callEvent(new com.skyblockexp.ezshops.event.ShopSaleEvent(player, new ItemStack(material, Math.max(1, amount)), amount, totalGain));
         ShopTransactionResult result = ShopTransactionResult.success(successMessages.sale(amount,
                 ChatColor.AQUA + friendlyMaterialName(material), formatCurrency(totalGain)));
         return result;

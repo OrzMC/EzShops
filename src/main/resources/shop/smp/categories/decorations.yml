@@ -29,7 +29,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 45.0
-        sell: 2.0
+        sell: 0.05
       lantern:
         material: LANTERN
         slot: 11
@@ -42,7 +42,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 60.0
-        sell: 2.50
+        sell: 0.05
       soul_lantern:
         material: SOUL_LANTERN
         slot: 12
@@ -55,7 +55,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 70.0
-        sell: 3.0
+        sell: 0.05
       painting:
         material: PAINTING
         slot: 19
@@ -68,7 +68,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 55.0
-        sell: 2.20
+        sell: 0.05
       item_frame:
         material: ITEM_FRAME
         slot: 20
@@ -81,7 +81,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 48.0
-        sell: 2.0
+        sell: 0.05
       glowstone:
         material: GLOWSTONE
         slot: 21
@@ -94,7 +94,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 65.0
-        sell: 2.80
+        sell: 0.05
       sea_lantern:
         material: SEA_LANTERN
         slot: 22
@@ -107,4 +107,4 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 95.0
-        sell: 4.50
+        sell: 0.05

@@ -44,7 +44,7 @@ categories:
           - "{translate:shop.common.sell-line}"
           - "{translate:shop.categories.daily_specials.item-note}"
           buy: 160.0
-          sell: 6.40
+          sell: 0.05
         seasonal_treats:
           material: HONEY_BOTTLE
           slot: 21
@@ -57,17 +57,4 @@ categories:
           - "{translate:shop.common.sell-line}"
           - "{translate:shop.categories.daily_specials.item-note}"
           buy: 180.0
-          sell: 7.20
-        premium_pick:
-          material: BONE_MEAL
-          slot: 24
-          amount: 16
-          bulk-amount: 32
-          icon-amount: 16
-          display-name: "{translate:shop.common.item-display-name}"
-          lore:
-          - "{translate:shop.common.buy-line}"
-          - "{translate:shop.common.sell-line}"
-          - "{translate:shop.categories.daily_specials.item-note}"
-          buy: 64.0
-          sell: 2.40
+          sell: 0.05

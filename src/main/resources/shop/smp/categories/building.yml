@@ -29,7 +29,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 64.0
-        sell: 3.20
+        sell: 0.05
       glass:
         material: GLASS
         slot: 11
@@ -42,7 +42,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 18.0
-        sell: 0.75
+        sell: 0.05
       bricks:
         material: BRICKS
         slot: 12
@@ -55,7 +55,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 30.0
-        sell: 1.20
+        sell: 0.05
       quartz_block:
         material: QUARTZ_BLOCK
         slot: 13
@@ -68,7 +68,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 80.0
-        sell: 3.50
+        sell: 0.05
       obsidian:
         material: OBSIDIAN
         slot: 14
@@ -94,7 +94,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 40.0
-        sell: 2.0
+        sell: 0.05
       bucket:
         material: BUCKET
         slot: 16
@@ -133,7 +133,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 30.0
-        sell: 1.50
+        sell: 0.05
       stone_bricks:
         material: STONE_BRICKS
         slot: 20
@@ -146,7 +146,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 48.0
-        sell: 2.40
+        sell: 0.05
       sand:
         material: SAND
         slot: 21
@@ -159,7 +159,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 24.0
-        sell: 1.20
+        sell: 0.05
       gravel:
         material: GRAVEL
         slot: 22
@@ -172,7 +172,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 24.0
-        sell: 1.20
+        sell: 0.05
       clay:
         material: CLAY
         slot: 23
@@ -185,7 +185,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 36.0
-        sell: 1.80
+        sell: 0.05
       terracotta:
         material: TERRACOTTA
         slot: 24
@@ -198,7 +198,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 44.0
-        sell: 2.20
+        sell: 0.05
       lava_bucket:
         material: LAVA_BUCKET
         slot: 25
@@ -224,7 +224,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 80.0
-        sell: 4.0
+        sell: 0.05
       tuff:
         material: TUFF
         slot: 28
@@ -237,7 +237,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 42.0
-        sell: 2.10
+        sell: 0.05
       polished_tuff:
         material: POLISHED_TUFF
         slot: 29
@@ -250,7 +250,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 48.0
-        sell: 2.30
+        sell: 0.05
       tuff_bricks:
         material: TUFF_BRICKS
         slot: 30
@@ -263,7 +263,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 52.0
-        sell: 2.40
+        sell: 0.05
       chiseled_tuff:
         material: CHISELED_TUFF
         slot: 31
@@ -276,7 +276,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 52.0
-        sell: 2.40
+        sell: 0.05
       chiseled_tuff_bricks:
         material: CHISELED_TUFF_BRICKS
         slot: 32
@@ -289,7 +289,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 56.0
-        sell: 2.60
+        sell: 0.05
       polished_tuff_stairs:
         material: POLISHED_TUFF_STAIRS
         slot: 33
@@ -302,7 +302,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 50.0
-        sell: 2.30
+        sell: 0.05
       tuff_brick_stairs:
         material: TUFF_BRICK_STAIRS
         slot: 34
@@ -315,7 +315,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 56.0
-        sell: 2.60
+        sell: 0.05
       # --- Planks (crafted from logs; lower unit value than logs) ---
       oak_planks:
         material: OAK_PLANKS
@@ -329,7 +329,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 6.0
-        sell: 0.25
+        sell: 0.05
       spruce_planks:
         material: SPRUCE_PLANKS
         slot: 38
@@ -342,7 +342,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 6.5
-        sell: 0.28
+        sell: 0.05
       birch_planks:
         material: BIRCH_PLANKS
         slot: 39
@@ -355,7 +355,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 6.5
-        sell: 0.28
+        sell: 0.05
       jungle_planks:
         material: JUNGLE_PLANKS
         slot: 40
@@ -368,7 +368,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 7.0
-        sell: 0.30
+        sell: 0.05
       acacia_planks:
         material: ACACIA_PLANKS
         slot: 41
@@ -381,7 +381,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 7.0
-        sell: 0.30
+        sell: 0.05
       dark_oak_planks:
         material: DARK_OAK_PLANKS
         slot: 42
@@ -394,7 +394,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 7.0
-        sell: 0.30
+        sell: 0.05
       mangrove_planks:
         material: MANGROVE_PLANKS
         slot: 43
@@ -407,7 +407,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 7.0
-        sell: 0.30
+        sell: 0.05
       pale_oak_planks:
         material: PALE_OAK_PLANKS
         slot: 44
@@ -420,7 +420,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 8.0
-        sell: 0.35
+        sell: 0.05
       cherry_planks:
         material: CHERRY_PLANKS
         slot: 46
@@ -433,4 +433,4 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 7.5
-        sell: 0.33
+        sell: 0.05

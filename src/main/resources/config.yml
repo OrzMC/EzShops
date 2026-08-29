@@ -8,7 +8,7 @@ debug: false
 # Game mode determines which shop configuration is loaded.
 # Available modes are determined by subdirectories in the shop/ folder.
 # Default: prison
-game-mode: prison
+game-mode: smp
 
 # Per-mode daily sell limits. Configure mode and item limit pairs.
 # Players can only sell up to this many items total per day in the specified mode.
@@ -73,8 +73,8 @@ player-shops:
   # initialised at startup the plugin will fall back to the YAML file backend
   # (`player-shops.yml`).
   storage:
-    # one of: jaloquent | mysql | sqlite
-    type: jaloquent
+    # one of: yaml (default) | jaloquent | mysql | sqlite*
+    type: yaml
 
     # Common optional settings that apply to most JDBC-backed backends.
     # If provided, these are used to build a JDBC URL when a full `url` is
