@@ -58,7 +58,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 60.0
-        sell: 2.10
+        sell: 0.8
       ender_pearl:
         material: ENDER_PEARL
         slot: 19

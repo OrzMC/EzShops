@@ -224,7 +224,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 80.0
-        sell: 4.0
+        sell: 0.8
       tuff:
         material: TUFF
         slot: 28

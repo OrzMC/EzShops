@@ -162,7 +162,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 130.0
-        sell: 5.80
+        sell: 0.4
       daylight_detector:
         material: DAYLIGHT_DETECTOR
         slot: 23

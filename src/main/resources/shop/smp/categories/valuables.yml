@@ -30,7 +30,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 400.0
-        sell: 2.0
+        sell: 0.4
       lapis_lazuli:
         material: LAPIS_LAZULI
         slot: 11

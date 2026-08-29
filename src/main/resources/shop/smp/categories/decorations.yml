@@ -94,7 +94,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 65.0
-        sell: 2.80
+        sell: 0.8
       sea_lantern:
         material: SEA_LANTERN
         slot: 22
@@ -107,4 +107,4 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 95.0
-        sell: 4.50
+        sell: 0.4
