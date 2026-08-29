@@ -30,7 +30,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 24.0
-        sell: 0.84
+        sell: 0.05
       string:
         material: STRING
         slot: 11
@@ -44,7 +44,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 22.0
-        sell: 0.77
+        sell: 0.05
       gunpowder:
         material: GUNPOWDER
         slot: 12
@@ -58,7 +58,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 60.0
-        sell: 0.8
+        sell: 0.05
       ender_pearl:
         material: ENDER_PEARL
         slot: 19
@@ -72,7 +72,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 120.0
-        sell: 0.4
+        sell: 0.05
       blaze_rod:
         material: BLAZE_ROD
         slot: 20
@@ -86,7 +86,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 130.0
-        sell: 0.4
+        sell: 0.05
       slime_ball:
         material: SLIME_BALL
         slot: 21
@@ -100,7 +100,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 90.0
-        sell: 0.4
+        sell: 0.05
       rotten_flesh:
         material: ROTTEN_FLESH
         slot: 13
@@ -114,7 +114,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 18.0
-        sell: 0.63
+        sell: 0.05
       ghast_tear:
         material: GHAST_TEAR
         slot: 14
@@ -128,7 +128,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 180.0
-        sell: 0.4
+        sell: 0.05
       phantom_membrane:
         material: PHANTOM_MEMBRANE
         slot: 22
@@ -142,4 +142,4 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 140.0
-        sell: 0.4
+        sell: 0.05

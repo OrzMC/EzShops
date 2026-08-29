@@ -30,7 +30,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 400.0
-        sell: 0.4
+        sell: 0.1
       lapis_lazuli:
         material: LAPIS_LAZULI
         slot: 11
@@ -100,7 +100,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 900.0
-        sell: 2.0
+        sell: 0.05
       wind_charge:
         material: WIND_CHARGE
         slot: 16
@@ -114,7 +114,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 280.0
-        sell: 0.8
+        sell: 0.05
       enchanted_golden_apple:
         material: ENCHANTED_GOLDEN_APPLE
         slot: 19
@@ -238,4 +238,4 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 320.0
-        sell: 0.4
+        sell: 0.05

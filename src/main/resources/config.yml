@@ -74,7 +74,7 @@ player-shops:
   # (`player-shops.yml`).
   storage:
     # one of: jaloquent | mysql | sqlite
-    type: jaloquent
+    type: yaml
 
     # Common optional settings that apply to most JDBC-backed backends.
     # If provided, these are used to build a JDBC URL when a full `url` is

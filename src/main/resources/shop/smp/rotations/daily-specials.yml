@@ -50,7 +50,7 @@ rotations:
             - "{translate:shop.common.sell-line}"
             - "{translate:shop.rotations.daily_specials.monster_madness.seasonal_treats.note}"
             buy: 180.0
-            sell: 1.2
+            sell: 0.05
           premium_pick:
             material: BLAZE_ROD
             display-name: "{translate:shop.rotations.daily_specials.monster_madness.premium_pick.display-name}"
