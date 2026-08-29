@@ -30,7 +30,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 400.0
-        sell: -1.0
+        sell: 140.0
         required-island-level: 5
       lapis_lazuli:
         material: LAPIS_LAZULI
@@ -105,7 +105,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 900.0
-        sell: -1.0
+        sell: 310.0
         required-island-level: 11
       wind_charge:
         material: WIND_CHARGE
@@ -120,7 +120,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 280.0
-        sell: -1.0
+        sell: 100.0
         required-island-level: 12
       enchanted_golden_apple:
         material: ENCHANTED_GOLDEN_APPLE
@@ -208,7 +208,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 4600.0
-        sell: -1.0
+        sell: 1500.0
         required-island-level: 14
       ominous_trial_key:
         material: OMINOUS_TRIAL_KEY
@@ -223,7 +223,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 8600.0
-        sell: -1.0
+        sell: 2800.0
         required-island-level: 17
       wolf_armor:
         material: WOLF_ARMOR
@@ -238,7 +238,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 2200.0
-        sell: -1.0
+        sell: 720.0
         required-island-level: 10
       armadillo_scute:
         material: ARMADILLO_SCUTE
@@ -253,5 +253,5 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.valuables.item-note}"
         buy: 320.0
-        sell: -1.0
+        sell: 112.0
         required-island-level: 7

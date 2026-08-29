@@ -296,7 +296,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mining.item-note}"
         buy: 80.0
-        sell: 2.80
+        sell: -1.0
       gold_ingot:
         material: GOLD_INGOT
         slot: 34
@@ -310,7 +310,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mining.item-note}"
         buy: 110.0
-        sell: 3.85
+        sell: -1.0
       redstone:
         material: REDSTONE
         slot: 37
@@ -366,7 +366,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mining.item-note}"
         buy: 360.0
-        sell: 12.60
+        sell: 2.0
       quartz:
         material: QUARTZ
         slot: 41

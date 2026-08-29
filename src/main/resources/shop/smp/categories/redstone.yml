@@ -149,7 +149,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 200.0
-        sell: 9.50
+        sell: -1.0
       target:
         material: TARGET
         slot: 22
@@ -188,7 +188,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 420.0
-        sell: 18.0
+        sell: -1.0
       redstone_lamp:
         material: REDSTONE_LAMP
         slot: 25

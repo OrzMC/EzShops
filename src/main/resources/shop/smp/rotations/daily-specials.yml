@@ -39,7 +39,7 @@ rotations:
             - "{translate:shop.common.sell-line}"
             - "{translate:shop.rotations.daily_specials.monster_madness.harvest_bundle.note}"
             buy: 24.0
-            sell: 0.95
+            sell: 0.05
           seasonal_treats:
             material: GUNPOWDER
             amount: 24
@@ -50,7 +50,7 @@ rotations:
             - "{translate:shop.common.sell-line}"
             - "{translate:shop.rotations.daily_specials.monster_madness.seasonal_treats.note}"
             buy: 180.0
-            sell: 7.40
+            sell: 1.2
           premium_pick:
             material: BLAZE_ROD
             display-name: "{translate:shop.rotations.daily_specials.monster_madness.premium_pick.display-name}"
@@ -59,7 +59,7 @@ rotations:
             - "{translate:shop.common.sell-line}"
             - "{translate:shop.rotations.daily_specials.monster_madness.premium_pick.note}"
             buy: 96.0
-            sell: 4.80
+            sell: 0.05
       miner-mania:
         weight: 1
         icon:
@@ -79,7 +79,7 @@ rotations:
             - "{translate:shop.common.sell-line}"
             - "{translate:shop.rotations.daily_specials.miner_mania.harvest_bundle.note}"
             buy: 384.0
-            sell: 14.4
+            sell: -1.0
           seasonal_treats:
             material: GOLD_INGOT
             amount: 24
@@ -90,7 +90,7 @@ rotations:
             - "{translate:shop.common.sell-line}"
             - "{translate:shop.rotations.daily_specials.miner_mania.seasonal_treats.note}"
             buy: 432.0
-            sell: 16.8
+            sell: -1.0
           premium_pick:
             material: DIAMOND
             amount: 8

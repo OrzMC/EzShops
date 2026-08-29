@@ -32,7 +32,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 25.0
-        sell: -1.0
+        sell: 10.0
       redstone_torch:
         material: REDSTONE_TORCH
         slot: 11
@@ -45,7 +45,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 32.0
-        sell: -1.0
+        sell: 16.0
       repeater:
         material: REPEATER
         slot: 12
@@ -58,7 +58,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 90.0
-        sell: -1.0
+        sell: 40.0
       comparator:
         material: COMPARATOR
         slot: 13
@@ -71,7 +71,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 120.0
-        sell: -1.0
+        sell: 55.0
       observer:
         material: OBSERVER
         slot: 14
@@ -84,7 +84,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 140.0
-        sell: -1.0
+        sell: 65.0
       piston:
         material: PISTON
         slot: 15
@@ -97,7 +97,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 110.0
-        sell: -1.0
+        sell: 48.0
       sticky_piston:
         material: STICKY_PISTON
         slot: 16
@@ -110,7 +110,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 170.0
-        sell: -1.0
+        sell: 66.0
       dropper:
         material: DROPPER
         slot: 19
@@ -123,7 +123,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 70.0
-        sell: -1.0
+        sell: 28.0
       dispenser:
         material: DISPENSER
         slot: 20
@@ -136,7 +136,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 90.0
-        sell: -1.0
+        sell: 34.0
       hopper:
         material: HOPPER
         slot: 21
@@ -149,7 +149,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 200.0
-        sell: -1.0
+        sell: 95.0
       target:
         material: TARGET
         slot: 22
@@ -162,7 +162,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 130.0
-        sell: -1.0
+        sell: 58.0
       daylight_detector:
         material: DAYLIGHT_DETECTOR
         slot: 23
@@ -175,7 +175,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 120.0
-        sell: -1.0
+        sell: 52.0
       crafter:
         material: CRAFTER
         slot: 24
@@ -188,7 +188,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 420.0
-        sell: -1.0
+        sell: 180.0
         required-island-level: 9
       redstone_lamp:
         material: REDSTONE_LAMP
@@ -202,7 +202,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 150.0
-        sell: -1.0
+        sell: 60.0
       copper_bulb:
         material: COPPER_BULB
         slot: 28
@@ -215,7 +215,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       exposed_copper_bulb:
         material: EXPOSED_COPPER_BULB
         slot: 29
@@ -228,7 +228,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       weathered_copper_bulb:
         material: WEATHERED_COPPER_BULB
         slot: 30
@@ -241,7 +241,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       oxidized_copper_bulb:
         material: OXIDIZED_COPPER_BULB
         slot: 31
@@ -254,7 +254,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       waxed_copper_bulb:
         material: WAXED_COPPER_BULB
         slot: 32
@@ -267,7 +267,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       waxed_exposed_copper_bulb:
         material: WAXED_EXPOSED_COPPER_BULB
         slot: 33
@@ -280,7 +280,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       waxed_weathered_copper_bulb:
         material: WAXED_WEATHERED_COPPER_BULB
         slot: 34
@@ -293,7 +293,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       waxed_oxidized_copper_bulb:
         material: WAXED_OXIDIZED_COPPER_BULB
         slot: 37
@@ -306,7 +306,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 260.0
-        sell: -1.0
+        sell: 95.0
       copper_door:
         material: COPPER_DOOR
         slot: 38
@@ -319,7 +319,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 120.0
-        sell: -1.0
+        sell: 44.0
       copper_trapdoor:
         material: COPPER_TRAPDOOR
         slot: 39
@@ -332,7 +332,7 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 110.0
-        sell: -1.0
+        sell: 42.0
       copper_grate:
         material: COPPER_GRATE
         slot: 40
@@ -345,4 +345,4 @@ categories:
         - "{translate:shop.common.sell-line}"
         - "{translate:shop.common.shift-click-line}"
         buy: 90.0
-        sell: -1.0
+        sell: 32.0

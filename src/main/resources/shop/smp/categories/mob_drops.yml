@@ -72,7 +72,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 120.0
-        sell: 4.20
+        sell: 0.4
       blaze_rod:
         material: BLAZE_ROD
         slot: 20
@@ -86,7 +86,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 130.0
-        sell: 4.55
+        sell: 0.4
       slime_ball:
         material: SLIME_BALL
         slot: 21
@@ -100,7 +100,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 90.0
-        sell: 3.15
+        sell: 0.4
       rotten_flesh:
         material: ROTTEN_FLESH
         slot: 13
@@ -128,7 +128,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 180.0
-        sell: 6.30
+        sell: 0.4
       phantom_membrane:
         material: PHANTOM_MEMBRANE
         slot: 22
@@ -142,4 +142,4 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 140.0
-        sell: 4.90
+        sell: 0.4

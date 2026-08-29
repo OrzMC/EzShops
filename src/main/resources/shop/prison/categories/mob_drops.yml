@@ -30,7 +30,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 24.0
-        sell: -1.0
+        sell: 8.4
       string:
         material: STRING
         slot: 11
@@ -44,7 +44,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 22.0
-        sell: -1.0
+        sell: 7.7
       gunpowder:
         material: GUNPOWDER
         slot: 12
@@ -58,7 +58,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 60.0
-        sell: -1.0
+        sell: 21.0
         required-island-level: 4
       ender_pearl:
         material: ENDER_PEARL
@@ -73,7 +73,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 120.0
-        sell: -1.0
+        sell: 42.0
         required-island-level: 6
       blaze_rod:
         material: BLAZE_ROD
@@ -88,7 +88,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 130.0
-        sell: -1.0
+        sell: 45.5
         required-island-level: 7
       slime_ball:
         material: SLIME_BALL
@@ -103,7 +103,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 90.0
-        sell: -1.0
+        sell: 31.5
         required-island-level: 5
       rotten_flesh:
         material: ROTTEN_FLESH
@@ -118,7 +118,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 18.0
-        sell: -1.0
+        sell: 6.3
       ghast_tear:
         material: GHAST_TEAR
         slot: 14
@@ -132,7 +132,7 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 180.0
-        sell: -1.0
+        sell: 63.0
         required-island-level: 8
       phantom_membrane:
         material: PHANTOM_MEMBRANE
@@ -147,5 +147,5 @@ categories:
         - "{translate:shop.common.shift-click-line}"
         - "{translate:shop.categories.mob_drops.item-note}"
         buy: 140.0
-        sell: -1.0
+        sell: 49.0
         required-island-level: 7
