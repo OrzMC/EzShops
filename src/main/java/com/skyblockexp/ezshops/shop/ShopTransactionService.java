@@ -627,7 +627,8 @@ public class ShopTransactionService {
             Integer amount = entry.getValue();
             Double gain = soldGains.getOrDefault(entry.getKey(), 0.0D);
             org.bukkit.Bukkit.getPluginManager().callEvent(new com.skyblockexp.ezshops.event.ShopSaleEvent(player,
-                    new org.bukkit.inventory.ItemStack(entry.getKey(), Math.max(1, amount)), amount, gain * sellMultiplier));
+                    new org.bukkit.inventory.ItemStack(entry.getKey(), Math.max(1, amount)), amount,
+                    EconomyUtils.normalizeCurrency(gain * sellMultiplier)));
         }
 
         String soldItems = formatSoldInventorySummary(soldAmounts);
